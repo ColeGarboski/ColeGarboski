@@ -47,7 +47,7 @@ Here are a few technologies I'm experienced with:
 > A VueJS Web App to display restaurants within a certain range.
 
 ### [LFGG](https://github.com/ColeGarboski/LFGG)
-![Screenshot](lfgglogin.png)
+![Screenshot](lffglogin.png)
 > A native Android LFG (looking for group) app to connect gamers looking to matchmake. 
 
 <!-- Social Links -->
