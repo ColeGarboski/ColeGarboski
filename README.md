@@ -1,14 +1,14 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Cole! 👋</h1>
 
-<!-- Introduction -->
-## About Me 📖
-I'm a CS Student with a passion for computers, gadgets, and trinkets to tinker with. I strive to create solutions to my everyday problems.
-
 <!-- Your image -->
 <p align="center">
   <img width="500" height="300" src="path_to_your_image.jpg">
 </p>
+
+<!-- Introduction -->
+## About Me 📖
+I'm a CS Student with a passion for computers, gadgets, and trinkets to tinker with. I strive to create solutions to my everyday problems.
 
 <!-- Tech Stack -->
 ## My Tech Stack 👨‍💻
