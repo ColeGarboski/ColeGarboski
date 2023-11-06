@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 ## About Me 📖
-I'm a [Your Job Title] with a passion for [Your Interests]. I love to create and contribute to open source projects. I believe in the power of community and collaboration.
+I'm a CS Student with a passion for computers, gadgets, and trinkets to tinker with. I strive to create solutions to my everyday problems.
 
 <!-- Your image -->
 <p align="center">
@@ -11,13 +11,13 @@ I'm a [Your Job Title] with a passion for [Your Interests]. I love to create and
 </p>
 
 <!-- Tech Stack -->
-## Tech Stack 👨‍💻
+## My Tech Stack 👨‍💻
 Here are a few technologies I'm experienced with:
 
-- Programming Languages: `Python`, `C++`, `Java`, `C#`
-- Frameworks: `React`, `Node.js`, `Django`
-- Tools & Platforms: `Docker`, `Git`, `AWS`, `Azure`
-- Databases: `MySQL`, `MongoDB`, `PostgreSQL`
+- Programming Languages: `Python`, `C++`, `JavaScript`, `C#`, `HTML`
+- Frameworks: `VueJS`, `Node.js`, `Flask`, `React`, `TailWindCSS`
+- Tools & Platforms: `Heroku`, `Vercel`, `Git`, `Firebase`, `Android Studio`
+- Databases: `MySQL`, `FireStore`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColeGarboski)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,11 +36,11 @@ Here are a few technologies I'm experienced with:
 ## Let's Connect 🌎
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/your_username">
+  <a href="https://github.com/ColeGarboski">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your_linkedin_profile">
+  <a href="https://www.linkedin.com/in/cole-garboski-03a640294/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <!-- Other social media -->
