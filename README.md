@@ -32,6 +32,10 @@ Here are a few technologies I'm experienced with:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ColeGarboski&theme=dark" alt="your_github_streak">
 </p>
 
+<!-- Projects -->
+## Projects 💼
+<!-- Add your projects with images and links here -->
+
 <!-- Social Links -->
 ## Let's Connect 🌎
 <p align="center">
@@ -46,10 +50,6 @@ Here are a few technologies I'm experienced with:
   <!-- Other social media -->
   <!-- Add other social media links as needed -->
 </p>
-
-<!-- Projects -->
-## Projects 💼
-<!-- Add your projects with images and links here -->
 
 <!-- Acknowledgements -->
 ## Acknowledgements 🙏
