@@ -54,11 +54,9 @@ Here are a few technologies I'm experienced with:
 <!-- Acknowledgements -->
 ## Acknowledgements 🙏
 <!-- Show your appreciation to those who have helped you -->
-
+SNHU 💛💙
 <!-- Footer -->
 ---
 <p align="center">
-  <i>Let's create something awesome together.</i>
-  <br><br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your_github_username.your_github_username" alt="visitor badge"/>
+  <i>Let's program a better world.</i>
 </p>
