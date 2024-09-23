@@ -11,7 +11,7 @@ Here are a few technologies I'm experienced with:
 
 - Programming Languages: `Python`, `C++`, `JavaScript`, `C#`, `HTML`
 - Frameworks: `VueJS`, `Node.js`, `Flask`, `React`, `TailWindCSS`
-- Tools & Platforms: `Heroku`, `Vercel`, `Git`, `Firebase`, `Android Studio`
+- Tools & Platforms: `Heroku`, `Vercel`, `Git`, `Firebase`, `SupaBase`,  `AWS`
 - Databases: `MySQL`, `FireStore`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ColeGarboski)](https://github.com/anuraghazra/github-readme-stats)
